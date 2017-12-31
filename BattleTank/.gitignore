@@ -75,3 +75,5 @@ Intermediate/*
 DerivedDataCache/*
 
 *.VC.db
+
+Content/StarterContent/*
